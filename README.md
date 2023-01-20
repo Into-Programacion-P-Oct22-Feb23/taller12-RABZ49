@@ -1,3 +1,8 @@
+Alex Ramirez
+
+Roberto Bustamante
+
+
 # Taller12
 
 ## Problemáticas
