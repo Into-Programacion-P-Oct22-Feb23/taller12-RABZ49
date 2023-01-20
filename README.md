@@ -75,3 +75,8 @@ int[] dataFinal = {100, 90, 0, 10, 0, 0};
 Presentar dataFinal
 
 Usar el método toInt de la clase NumberUtils, revisar la información en  https://commons.apache.org/proper/commons-lang/javadocs/api-release/index.html
+
+
+Alex Ramirez
+
+Roberto Bustamante
